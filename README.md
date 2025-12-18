@@ -1,10 +1,10 @@
-# SOLARSE Token Assets
+# SOLACE Token Assets
 
-Official visual assets for the SOLARSE token on the TON blockchain.
+Official visual assets for the SOLACE token on the TON blockchain.
 
 ## Token Info
-- Name: SOLARSE
-- Symbol: SOLARSE
+- Name: SOLACE
+- Symbol: SOLACE
 - Blockchain: TON
 - Decimals: 9
 
